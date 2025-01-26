@@ -1,2 +1,2 @@
-#GTL-Task-2
+# GTL-Task-2
 <a href="https://7sushant81.github.io/GTL-Task-2/">Website</a>
